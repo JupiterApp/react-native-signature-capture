@@ -1,5 +1,9 @@
 # react-native-signature-capture
 
+## Forked version
+
+- Forked version adds a new prop called `fileName` which allows us to specify dynamic path names.
+
 ## About this
 React Native library for capturing signature
 
